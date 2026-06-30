@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Anuradha Jamdade
 
-<!--
-**AnnuJ91/AnnuJ91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Laravel Backend Developer
 
-Here are some ideas to get you started:
+I have 4+ years of experience developing scalable web applications using Laravel, CodeIgniter, PHP, MySQL, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Laravel
+- PHP
+- CodeIgniter
+- MySQL
+- REST APIs
+- Bootstrap
+- JavaScript
+- Git
+- Postman
+
+## 🚀 Currently Learning
+
+- React.js
+- Application Performance Optimization
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/anuradha-jamdade-68a0915a
+- Email: aj2740@gmail.com
